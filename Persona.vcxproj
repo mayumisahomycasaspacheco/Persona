@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Contacto.h" />
     <ClInclude Include="Persona.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

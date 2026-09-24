@@ -19,8 +19,6 @@ public:
 	void setnumero(string valor);
 };
 
-//Implementacion
-
 Persona::Persona(string pnombre, string pnumero)
 {
 	this->nombre = pnombre;

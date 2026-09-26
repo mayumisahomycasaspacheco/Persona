@@ -22,6 +22,9 @@
     <ClInclude Include="Contacto.h" />
     <ClInclude Include="Persona.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <ProjectGuid>{FCD3BBDD-2251-EBDB-A9FB-89BD56F03C79}</ProjectGuid>

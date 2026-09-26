@@ -61,11 +61,11 @@ void Contacto::listar_contactos()
 {
 	if (cantidad == 0)
 	{
-		cout << "No tienes contactos registrados" << endl;
+		cout << "You have no registered contacts" << endl;
 		return;
 	}
 
-	cout << endl << "Nombre\tNumero" << endl;
+	cout << endl << "Name\tNumber" << endl;
 
 	for (int i = 0; i < cantidad; i++)
 	{
